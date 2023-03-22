@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jupsand
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning Python, AWS, Dev-ops
+- 🌱 I’m currently learning Html, CSS, Javascript, Python, AWS, Dev-ops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
